@@ -1,10 +1,10 @@
-# Mattermost Mobile
+# MM Mobile
 
 - **Minimum Server versions:** Current ESR version (5.25)
 - **Supported iOS versions:** 11+
 - **Supported Android versions:** 7.0+
 
-Mattermost is an open source Slack-alternative used by thousands of companies around the world in 14 languages. Learn more at [https://about.mattermost.com](https://about.mattermost.com).
+MM-Mobile is an open source Slack-alternative used by thousands of companies around the world in 14 languages. Learn more at [https://about.mattermost.com](https://about.mattermost.com).
 
 You can download our apps from the [App Store](https://about.mattermost.com/mattermost-ios-app/) or [Google Play Store](https://about.mattermost.com/mattermost-android-app/), or [build them yourself](https://developers.mattermost.com/contribute/mobile/build-your-own/). 
 
